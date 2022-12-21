@@ -1,4 +1,4 @@
-let tab = [2,2,2];
+let tab = [11,40,34];
 
 function milieu(){
   
